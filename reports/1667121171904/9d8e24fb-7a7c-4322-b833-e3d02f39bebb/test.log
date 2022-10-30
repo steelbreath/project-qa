@@ -1,0 +1,100 @@
+[2022-10-30 09:12:55] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-30 09:12:55] [1] [INFO] TEST [project-qa - testFooterMenu] STARTED at [11:12:55 2022-10-30]
+[2022-10-30 09:12:55] [1] [INFO] Starting driver session...
+[2022-10-30 09:13:05] [1] [INFO] Driver session started.
+[2022-10-30 09:13:05] [1] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-10-30 09:13:07] [1] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-10-30 09:14:23] [1] [INFO] PASS: element 'homeButton' is clicked.
+[2022-10-30 09:15:59] [1] [INFO] PASS: element 'footerMenuButton[News]' is clicked.
+[2022-10-30 09:16:00] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:16:00] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:16:00] [1] [INFO] Navigated back
+[2022-10-30 09:16:07] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:16:07] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:16:11] [1] [INFO] PASS: element 'footerMenuButton[Reviews]' is clicked.
+[2022-10-30 09:16:24] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:16:24] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:16:24] [1] [INFO] Navigated back
+[2022-10-30 09:16:25] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:17:35] [1] [INFO] PASS: element 'footerMenuButton[Compare]' is clicked.
+[2022-10-30 09:17:36] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!
+[2022-10-30 09:17:36] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!
+[2022-10-30 09:17:36] [1] [INFO] Navigated back
+[2022-10-30 09:17:37] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:17:38] [1] [INFO] PASS: element 'footerMenuButton[Coverage]' is clicked.
+[2022-10-30 09:17:48] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:17:48] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!
+[2022-10-30 09:17:48] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!
+[2022-10-30 09:17:48] [1] [INFO] Navigated back
+[2022-10-30 09:17:59] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:18:01] [1] [INFO] PASS: element 'footerMenuButton[Glossary]' is clicked.
+[2022-10-30 09:18:11] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!
+[2022-10-30 09:18:11] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!
+[2022-10-30 09:18:11] [1] [INFO] Navigated back
+[2022-10-30 09:18:19] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:18:19] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:18:31] [1] [INFO] PASS: element 'footerMenuButton[FAQ]' is clicked.
+[2022-10-30 09:18:33] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!
+[2022-10-30 09:18:33] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!
+[2022-10-30 09:18:33] [1] [INFO] Navigated back
+[2022-10-30 09:18:34] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:18:46] [1] [INFO] PASS: element 'footerMenuButton[RSS feed]' is clicked.
+[2022-10-30 09:18:47] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!
+[2022-10-30 09:18:47] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!
+[2022-10-30 09:18:47] [1] [INFO] Navigated back
+[2022-10-30 09:18:48] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:18:50] [1] [INFO] PASS: element 'footerMenuButton[Youtube]' is clicked.
+[2022-10-30 09:18:51] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!
+[2022-10-30 09:18:51] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!
+[2022-10-30 09:18:51] [1] [INFO] Navigated back
+[2022-10-30 09:18:52] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:18:57] [1] [INFO] PASS: element 'footerMenuButton[Facebook]' is clicked.
+[2022-10-30 09:18:59] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:18:59] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:18:59] [1] [INFO] Navigated back
+[2022-10-30 09:19:16] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:19:18] [1] [INFO] PASS: element 'footerMenuButton[Twitter]' is clicked.
+[2022-10-30 09:19:19] [1] [INFO] PASS: url 'https://www.gsmarena.com/' is correct.
+[2022-10-30 09:19:26] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://twitter.com/gsmarena_com'!
+[2022-10-30 09:19:27] [1] [INFO] PASS: element 'footerMenuButton[Instagram]' is clicked.
+[2022-10-30 09:19:28] [1] [INFO] PASS: url 'https://www.gsmarena.com/' is correct.
+[2022-10-30 09:19:28] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.facebook.com/people/GSMArenacom/100066846038410/'!
+[2022-10-30 09:19:29] [1] [INFO] PASS: element 'footerMenuButton[GSMArena.com]' is clicked.
+[2022-10-30 09:19:34] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!
+[2022-10-30 09:19:34] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!
+[2022-10-30 09:19:34] [1] [INFO] Navigated back
+[2022-10-30 09:19:44] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:19:47] [1] [INFO] PASS: element 'footerMenuButton[Mobile version]' is clicked.
+[2022-10-30 09:19:56] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:19:57] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!
+[2022-10-30 09:19:57] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!
+[2022-10-30 09:19:57] [1] [INFO] Navigated back
+[2022-10-30 09:19:58] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:20:09] [1] [INFO] PASS: element 'footerMenuButton[Android app]' is clicked.
+[2022-10-30 09:20:10] [1] [INFO] PASS: url 'https://www.gsmarena.com/' is correct.
+[2022-10-30 09:20:12] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA'!
+[2022-10-30 09:20:18] [1] [INFO] PASS: element 'footerMenuButton[Tools]' is clicked.
+[2022-10-30 09:20:19] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!
+[2022-10-30 09:20:19] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!
+[2022-10-30 09:20:19] [1] [INFO] Navigated back
+[2022-10-30 09:20:22] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:20:31] [1] [INFO] PASS: element 'footerMenuButton[Contact us]' is clicked.
+[2022-10-30 09:20:41] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:20:41] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!
+[2022-10-30 09:20:41] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!
+[2022-10-30 09:20:41] [1] [INFO] Navigated back
+[2022-10-30 09:20:43] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:20:47] [1] [INFO] PASS: element 'footerMenuButton[Merch store]' is clicked.
+[2022-10-30 09:20:48] [1] [INFO] PASS: url 'https://www.gsmarena.com/' is correct.
+[2022-10-30 09:20:49] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.instagram.com/accounts/login/?next=%2Fgsmarenateam%2F&source=omni_redirect'!
+[2022-10-30 09:20:51] [1] [INFO] PASS: element 'footerMenuButton[Privacy]' is clicked.
+[2022-10-30 09:20:52] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!
+[2022-10-30 09:20:52] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!
+[2022-10-30 09:20:59] [1] [INFO] Navigated back
+[2022-10-30 09:21:00] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:21:03] [1] [INFO] PASS: element 'footerMenuButton[Terms of use]' is clicked.
+[2022-10-30 09:21:10] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!
+[2022-10-30 09:21:10] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!
+[2022-10-30 09:21:10] [1] [INFO] Navigated back
+[2022-10-30 09:21:12] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:21:15] [1] [INFO] TEST [project-qa - testFooterMenu] PASSED at [11:21:15 2022-10-30]

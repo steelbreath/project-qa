@@ -1,0 +1,57 @@
+[2022-10-30 09:23:43] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-30 09:23:43] [1] [INFO] TEST [project-qa - testHeaderMenu] STARTED at [11:23:43 2022-10-30]
+[2022-10-30 09:23:43] [1] [INFO] Starting driver session...
+[2022-10-30 09:23:53] [1] [INFO] Driver session started.
+[2022-10-30 09:23:53] [1] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-10-30 09:23:55] [1] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-10-30 09:25:21] [1] [INFO] PASS: element 'hamburgerMenuButton' is clicked.
+[2022-10-30 09:25:23] [1] [INFO] PASS: element 'homeButton' is clicked.
+[2022-10-30 09:25:55] [1] [INFO] PASS: element 'headerMenuButton[News]' is clicked.
+[2022-10-30 09:25:57] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:25:57] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:25:57] [1] [INFO] Navigated back
+[2022-10-30 09:25:58] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:26:00] [1] [INFO] PASS: element 'headerMenuButton[Reviews]' is clicked.
+[2022-10-30 09:26:12] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:26:12] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!
+[2022-10-30 09:26:12] [1] [INFO] Navigated back
+[2022-10-30 09:26:20] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:26:45] [1] [INFO] PASS: element 'headerMenuButton[Videos]' is clicked.
+[2022-10-30 09:26:47] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!
+[2022-10-30 09:26:47] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!
+[2022-10-30 09:26:47] [1] [INFO] Navigated back
+[2022-10-30 09:26:50] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:26:51] [1] [WARN] returned first but found 2 elements by xpath: By.xpath: //li/a[contains(.,'Featured')]
+[2022-10-30 09:26:56] [1] [INFO] PASS: element 'headerMenuButton[Featured]' is clicked.
+[2022-10-30 09:27:05] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!
+[2022-10-30 09:27:05] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!
+[2022-10-30 09:27:05] [1] [INFO] Navigated back
+[2022-10-30 09:27:16] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:27:25] [1] [INFO] PASS: element 'headerMenuButton[Phone Finder]' is clicked.
+[2022-10-30 09:27:26] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!
+[2022-10-30 09:27:26] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!
+[2022-10-30 09:27:26] [1] [INFO] Navigated back
+[2022-10-30 09:27:34] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:27:34] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:27:36] [1] [INFO] PASS: element 'headerMenuButton[Deals]' is clicked.
+[2022-10-30 09:27:45] [1] [WARN] Unable to capture screenshot during 6 sec!
+[2022-10-30 09:27:45] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!
+[2022-10-30 09:27:45] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!
+[2022-10-30 09:27:45] [1] [INFO] Navigated back
+[2022-10-30 09:27:54] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:27:55] [1] [INFO] PASS: element 'headerMenuButton[Merch]' is clicked.
+[2022-10-30 09:27:56] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:27:56] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!
+[2022-10-30 09:27:56] [1] [INFO] Navigated back
+[2022-10-30 09:28:05] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:28:06] [1] [INFO] PASS: element 'headerMenuButton[Coverage]' is clicked.
+[2022-10-30 09:28:17] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!
+[2022-10-30 09:28:17] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!
+[2022-10-30 09:28:17] [1] [INFO] Navigated back
+[2022-10-30 09:28:25] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:28:26] [1] [INFO] PASS: element 'headerMenuButton[Contact]' is clicked.
+[2022-10-30 09:28:39] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!
+[2022-10-30 09:28:39] [1] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!
+[2022-10-30 09:28:39] [1] [INFO] Navigated back
+[2022-10-30 09:28:41] [1] [INFO] INFO: navigate to previous page performed.
+[2022-10-30 09:28:43] [1] [INFO] TEST [project-qa - testHeaderMenu] PASSED at [11:28:43 2022-10-30]

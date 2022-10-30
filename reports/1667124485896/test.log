@@ -1,0 +1,26 @@
+[2022-10-30 10:08:05] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.browserName=chrome
+================================================
+
+[2022-10-30 10:08:06] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-30 10:08:08] [1] [INFO] Reflections took 1739 ms to scan 11 urls, producing 2605 keys and 12725 values 
+[2022-10-30 10:08:08] [1] [INFO] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+[2022-10-30 10:08:08] [1] [INFO] Set thread-count=1
+[2022-10-30 10:08:08] [1] [INFO] Set data-provider-thread-count=1
+[2022-10-30 10:08:08] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-10-30 10:12:52] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-10-30 10:12:52] [1] [INFO] RESULT #1: TEST [project-qa - testLogIn] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667124485896/6b46d268-4f12-42e0-8313-1631921ac82c/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667124485896/6b46d268-4f12-42e0-8313-1631921ac82c/test.log]
+[2022-10-30 10:12:52] [1] [INFO] RESULT #2: TEST [project-qa - testLogInWindow] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667124485896/c61a441c-3344-4ac9-9264-ceb641a2d54f/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667124485896/c61a441c-3344-4ac9-9264-ceb641a2d54f/test.log]
