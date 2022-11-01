@@ -1,0 +1,29 @@
+[2022-11-01 11:39:09] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.browserName=chrome
+================================================
+
+[2022-11-01 11:39:10] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 11:39:13] [1] [INFO] Reflections took 2758 ms to scan 11 urls, producing 2605 keys and 12725 values 
+[2022-11-01 11:39:13] [1] [INFO] Use thread-count='2' from suite file.
+[2022-11-01 11:39:13] [1] [INFO] Set data-provider-thread-count=1
+[2022-11-01 11:39:13] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-11-01 11:51:56] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-11-01 11:51:56] [1] [INFO] RESULT #1: TEST [NoPackage - testNegativeLogIn [L01]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/da740678-6afe-4170-9502-e1a6e42a26c4/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/da740678-6afe-4170-9502-e1a6e42a26c4/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #2: TEST [NoPackage - testLogInWindow] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f93f56da-ef7a-4b21-b50f-5c046eb813e3/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f93f56da-ef7a-4b21-b50f-5c046eb813e3/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #3: TEST [NoPackage - testNegativeLogIn [L02]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f91850ae-4800-4a5b-8cb7-01d958367405/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f91850ae-4800-4a5b-8cb7-01d958367405/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #4: TEST [NoPackage - testNegativeLogIn [L03]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/bd95988f-e384-4059-b921-896e0f65e38f/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/bd95988f-e384-4059-b921-896e0f65e38f/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #5: TEST [NoPackage - testNegativeLogIn [L04]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/1f0d2bf1-0516-4dd2-992d-8525075e8979/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/1f0d2bf1-0516-4dd2-992d-8525075e8979/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #6: TEST [NoPackage - testNegativeLogIn [L05]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/e6d0115f-7795-4398-977a-c163396c1ed8/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/e6d0115f-7795-4398-977a-c163396c1ed8/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #7: TEST [NoPackage - testNegativeLogIn [L06]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f68975f7-6ce3-4376-965c-e6d2846ff144/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/f68975f7-6ce3-4376-965c-e6d2846ff144/test.log]
+[2022-11-01 11:51:56] [1] [INFO] RESULT #8: TEST [NoPackage - testNegativeLogIn [L07]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/693ebce9-03ce-49c5-9750-23af80231e75/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667302749736/693ebce9-03ce-49c5-9750-23af80231e75/test.log]

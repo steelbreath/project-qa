@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LoginSuite" verbose="1" parallel="tests" thread-count="4">
+    <test name="LogIn">
+        <classes>
+            <class name="com.solvd.carina.demo.my_test_cases.LogInTestCases">
+                <methods>
+                    <exclude name="testLogIn"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Footer">
+        <classes>
+            <class name="com.solvd.carina.demo.my_test_cases.FooterMenuTestCases"/>
+        </classes>
+    </test>
+
+    <test name="Header">
+        <classes>
+            <class name="com.solvd.carina.demo.my_test_cases.HeaderMenuTestCases"/>
+        </classes>
+    </test>
+
+    <test name="SignUp">
+        <classes>
+            <class name="com.solvd.carina.demo.my_test_cases.SignUpTestCases"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+[2022-11-01 07:09:19] [1] [INFO] TEST [Surefire test - testNegativeLogIn [L07]] STARTED at [21:09:19 2022-11-01]
+[2022-11-01 07:09:19] [1] [INFO] Starting driver session...
+[2022-11-01 07:09:23] [1] [INFO] Driver session started.
+[2022-11-01 07:09:23] [1] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-11-01 07:09:24] [1] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-11-01 07:09:58] [1] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 07:10:00] [1] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 07:10:02] [1] [INFO] PASS: keys '@gmail.com' are sent to element 'emailField'.
+[2022-11-01 07:10:04] [1] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 07:10:06] [1] [INFO] PASS: keys 'C0r3ktP4SS' are sent to element 'passwordField'.
+[2022-11-01 07:10:08] [1] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 07:10:10] [1] [INFO] Введіть частину електронної адреси до знака "@". Електронна адреса "@gmail.com" неповна.
+[2022-11-01 07:10:10] [1] [INFO] 
+[2022-11-01 07:10:34] [1] [INFO] TEST [Surefire test - testNegativeLogIn [L07]] PASSED at [21:10:34 2022-11-01]

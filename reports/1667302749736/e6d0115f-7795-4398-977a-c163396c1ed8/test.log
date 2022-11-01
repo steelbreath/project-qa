@@ -1,0 +1,12 @@
+[2022-11-01 11:46:13] [23] [INFO] TEST [NoPackage - testNegativeLogIn [L05]] STARTED at [13:46:13 2022-11-01]
+[2022-11-01 11:46:13] [23] [INFO] Starting driver session...
+[2022-11-01 11:46:23] [23] [INFO] Driver session started.
+[2022-11-01 11:46:23] [23] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-11-01 11:46:35] [23] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-11-01 11:46:58] [23] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:47:00] [23] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 11:47:02] [23] [INFO] PASS: keys 'correctEmailgmail.com' are sent to element 'emailField'.
+[2022-11-01 11:47:03] [23] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 11:47:05] [23] [INFO] PASS: keys 'C0r3ktP4SS' are sent to element 'passwordField'.
+[2022-11-01 11:47:12] [23] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:47:35] [23] [INFO] TEST [NoPackage - testNegativeLogIn [L05]] PASSED at [13:47:35 2022-11-01]

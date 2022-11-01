@@ -1,0 +1,28 @@
+[2022-11-01 07:01:42] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.browserName=chrome
+================================================
+
+[2022-11-01 07:01:42] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 07:01:44] [1] [INFO] Reflections took 1574 ms to scan 11 urls, producing 2605 keys and 12725 values 
+[2022-11-01 07:01:44] [1] [INFO] Set thread-count=1
+[2022-11-01 07:01:44] [1] [INFO] Set data-provider-thread-count=1
+[2022-11-01 07:01:44] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-11-01 07:10:34] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-11-01 07:10:34] [1] [INFO] RESULT #1: TEST [Surefire test - testNegativeLogIn [L01]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/5fc453b3-dcb9-4415-af53-1980b6dd64a7/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/5fc453b3-dcb9-4415-af53-1980b6dd64a7/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #2: TEST [Surefire test - testNegativeLogIn [L02]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/46956a14-8816-4e87-b308-d315d3e76bcc/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/46956a14-8816-4e87-b308-d315d3e76bcc/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #3: TEST [Surefire test - testNegativeLogIn [L03]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/6fc8c7b5-ac68-4b49-9e20-12205a9d76f4/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/6fc8c7b5-ac68-4b49-9e20-12205a9d76f4/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #4: TEST [Surefire test - testNegativeLogIn [L04]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/931392f8-2f77-481e-9f5f-ecaee9cfe954/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/931392f8-2f77-481e-9f5f-ecaee9cfe954/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #5: TEST [Surefire test - testNegativeLogIn [L05]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/e636ad04-95e1-4658-9fa7-df93356fb1b8/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/e636ad04-95e1-4658-9fa7-df93356fb1b8/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #6: TEST [Surefire test - testNegativeLogIn [L06]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/15c3e3a0-82ac-4d65-9072-67b32a221edb/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/15c3e3a0-82ac-4d65-9072-67b32a221edb/test.log]
+[2022-11-01 07:10:34] [1] [INFO] RESULT #7: TEST [Surefire test - testNegativeLogIn [L07]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/d2a85d85-fa27-4b23-abff-52e93daa32d9/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667329302131/d2a85d85-fa27-4b23-abff-52e93daa32d9/test.log]

@@ -1,29 +1,529 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/forgot.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.facebook.com/people/GSMArenacom/100066846038410/'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://twitter.com/gsmarena_com'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.instagram.com/gsmarenateam/'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://play.google.com/store/apps/details?id=com.gsmarena.android'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://merch.gsmarena.com/'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+    </line>
+    <line>
+      <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-10-18T18:40:06 EEST" name="Carina Demo Tests - API Sample" finished-at="2022-10-18T18:40:42 EEST" duration-ms="36374">
+  <suite started-at="2022-11-01T21:49:51 EET" name="LoginSuite" finished-at="2022-11-01T22:04:33 EET" duration-ms="881417">
     <groups>
     </groups>
-    <test started-at="2022-10-18T18:40:06 EEST" name="User API tests" finished-at="2022-10-18T18:40:42 EEST" duration-ms="36374">
-      <class name="com.solvd.carina.demo.APISampleTest">
-        <test-method signature="testCreateUser()[pri:0, instance:com.solvd.carina.demo.APISampleTest@408bb173]" started-at="2022-10-18T18:40:06 EEST" name="testCreateUser" finished-at="2022-10-18T18:40:41 EEST" duration-ms="34518" status="PASS">
+    <test started-at="2022-11-01T21:49:51 EET" name="LogIn" finished-at="2022-11-01T21:56:05 EET" duration-ms="374088">
+      <class name="com.solvd.carina.demo.my_test_cases.LogInTestCases">
+        <test-method signature="testLogInWindow()[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:49:51 EET" name="testLogInWindow" description="Test login window" finished-at="2022-11-01T21:51:34 EET" duration-ms="103088" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/forgot.php3'!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogInWindow -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:49:51 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:51:21 EET" duration-ms="90113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Заповніть це поле.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Заповніть це поле.]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCreateUser -->
-        <test-method signature="testDeleteUsers()[pri:0, instance:com.solvd.carina.demo.APISampleTest@408bb173]" started-at="2022-10-18T18:40:06 EEST" name="testDeleteUsers" finished-at="2022-10-18T18:40:40 EEST" duration-ms="34461" status="PASS">
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:51:24 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:52:18 EET" duration-ms="54146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[incorrectEmail@gmailcom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Заповніть це поле.]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDeleteUsers -->
-        <test-method signature="testGetUsers()[pri:0, instance:com.solvd.carina.demo.APISampleTest@408bb173]" started-at="2022-10-18T18:40:06 EEST" name="testGetUsers" finished-at="2022-10-18T18:40:42 EEST" duration-ms="36016" status="PASS">
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:52:19 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:53:04 EET" duration-ms="44417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Заповніть це поле.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Виберіть потрібний формат.]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testGetUsers -->
-        <test-method signature="testCreateUserMissingSomeFields()[pri:0, instance:com.solvd.carina.demo.APISampleTest@408bb173]" started-at="2022-10-18T18:40:06 EEST" name="testCreateUserMissingSomeFields" finished-at="2022-10-18T18:40:40 EEST" duration-ms="33801" status="PASS">
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:53:05 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:53:47 EET" duration-ms="42286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[incorrectEmail@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Введіть частину електронної адреси після знака "@". Електронна адреса "incorrectEmail@" неповна.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Виберіть потрібний формат.]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCreateUserMissingSomeFields -->
-      </class> <!-- com.solvd.carina.demo.APISampleTest -->
-    </test> <!-- User API tests -->
-  </suite> <!-- Carina Demo Tests - API Sample -->
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:53:48 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:54:33 EET" duration-ms="45664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correctEmailgmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0r3ktP4SS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Електронна адреса має містити знак "@". В електронній адресі "correctEmailgmail.com" знака "@" немає.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:54:34 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:55:10 EET" duration-ms="36112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correctEmail@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Виберіть потрібний формат.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeLogIn -->
+        <test-method signature="testNegativeLogIn(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.solvd.carina.demo.my_test_cases.LogInTestCases@156d7556]" started-at="2022-11-01T21:55:11 EET" name="testNegativeLogIn" description="Test negative scenarios of login" data-provider="DP1" finished-at="2022-11-01T21:56:04 EET" duration-ms="52880" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0r3ktP4SS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Введіть частину електронної адреси до знака "@". Електронна адреса "@gmail.com" неповна.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeLogIn -->
+      </class> <!-- com.solvd.carina.demo.my_test_cases.LogInTestCases -->
+    </test> <!-- LogIn -->
+    <test started-at="2022-11-01T21:56:06 EET" name="Footer" finished-at="2022-11-01T22:00:02 EET" duration-ms="236815">
+      <class name="com.solvd.carina.demo.my_test_cases.FooterMenuTestCases">
+        <test-method signature="testFooterMenu()[pri:0, instance:com.solvd.carina.demo.my_test_cases.FooterMenuTestCases@186537ac]" started-at="2022-11-01T21:56:06 EET" name="testFooterMenu" description="Test footer menu" finished-at="2022-11-01T22:00:01 EET" duration-ms="235557" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/compare.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/glossary.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/faq.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/rss-news-reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.facebook.com/people/GSMArenacom/100066846038410/'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://twitter.com/gsmarena_com'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.instagram.com/gsmarenateam/'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/team.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://m.gsmarena.com/'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://play.google.com/store/apps/details?id=com.gsmarena.android'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/tools.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://merch.gsmarena.com/'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/privacy-policy.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/terms.php3'!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testFooterMenu -->
+      </class> <!-- com.solvd.carina.demo.my_test_cases.FooterMenuTestCases -->
+    </test> <!-- Footer -->
+    <test started-at="2022-11-01T22:00:02 EET" name="Header" finished-at="2022-11-01T22:03:33 EET" duration-ms="210701">
+      <class name="com.solvd.carina.demo.my_test_cases.HeaderMenuTestCases">
+        <test-method signature="testHeaderMenu()[pri:0, instance:com.solvd.carina.demo.my_test_cases.HeaderMenuTestCases@14b0b7f9]" started-at="2022-11-01T22:00:02 EET" name="testHeaderMenu" description="Test header menu" finished-at="2022-11-01T22:03:32 EET" duration-ms="209559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/reviews.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/news.php3?sTag=Featured'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/search.php3?'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/deals.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/videos.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/network-bands.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+            </line>
+            <line>
+              <![CDATA[FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/contact.php3'!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHeaderMenu -->
+      </class> <!-- com.solvd.carina.demo.my_test_cases.HeaderMenuTestCases -->
+    </test> <!-- Header -->
+    <test started-at="2022-11-01T22:03:33 EET" name="SignUp" finished-at="2022-11-01T22:04:33 EET" duration-ms="59453">
+      <class name="com.solvd.carina.demo.my_test_cases.SignUpTestCases">
+        <test-method signature="testSignUp()[pri:0, instance:com.solvd.carina.demo.my_test_cases.SignUpTestCases@58ec3e8b]" started-at="2022-11-01T22:03:33 EET" name="testSignUp" description="Create an account" finished-at="2022-11-01T22:04:32 EET" duration-ms="58576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUp -->
+      </class> <!-- com.solvd.carina.demo.my_test_cases.SignUpTestCases -->
+    </test> <!-- SignUp -->
+  </suite> <!-- LoginSuite -->
 </testng-results>

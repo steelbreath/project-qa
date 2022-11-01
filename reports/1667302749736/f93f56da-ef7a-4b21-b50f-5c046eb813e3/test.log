@@ -1,0 +1,20 @@
+[2022-11-01 11:39:14] [22] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 11:39:14] [22] [INFO] TEST [NoPackage - testLogInWindow] STARTED at [13:39:14 2022-11-01]
+[2022-11-01 11:39:14] [22] [INFO] Starting driver session...
+[2022-11-01 11:39:45] [22] [INFO] Driver session started.
+[2022-11-01 11:39:46] [22] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-11-01 11:39:51] [22] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-11-01 11:40:55] [22] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:41:04] [22] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 11:41:07] [22] [INFO] PASS: keys 'sefshgnkkd@gmail.com' are sent to element 'emailField'.
+[2022-11-01 11:41:10] [22] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 11:41:12] [22] [INFO] PASS: keys '' are sent to element 'emailField'.
+[2022-11-01 11:41:14] [22] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 11:41:16] [22] [INFO] PASS: keys 'qwxriihku' are sent to element 'passwordField'.
+[2022-11-01 11:41:18] [22] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 11:41:20] [22] [INFO] PASS: keys '' are sent to element 'passwordField'.
+[2022-11-01 11:41:22] [22] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:41:25] [22] [INFO] #d50000
+[2022-11-01 11:42:46] [22] [INFO] PASS: element 'forgotPasswordButton' is clicked.
+[2022-11-01 11:42:47] [22] [ERROR] FAIL: wrong URL, expected 'https://www.gsmarena.com/' but actual 'https://www.gsmarena.com/forgot.php3'!
+[2022-11-01 11:42:50] [22] [INFO] TEST [NoPackage - testLogInWindow] PASSED at [13:42:50 2022-11-01]

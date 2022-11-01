@@ -1,0 +1,13 @@
+[2022-11-01 11:39:14] [23] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 11:39:14] [23] [INFO] TEST [NoPackage - testNegativeLogIn [L01]] STARTED at [13:39:14 2022-11-01]
+[2022-11-01 11:39:14] [23] [INFO] Starting driver session...
+[2022-11-01 11:39:45] [23] [INFO] Driver session started.
+[2022-11-01 11:39:46] [23] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-11-01 11:39:51] [23] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-11-01 11:40:55] [23] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:41:04] [23] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 11:41:07] [23] [INFO] PASS: keys '' are sent to element 'emailField'.
+[2022-11-01 11:41:10] [23] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 11:41:12] [23] [INFO] PASS: keys '' are sent to element 'passwordField'.
+[2022-11-01 11:41:15] [23] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 11:41:47] [23] [INFO] TEST [NoPackage - testNegativeLogIn [L01]] PASSED at [13:41:47 2022-11-01]

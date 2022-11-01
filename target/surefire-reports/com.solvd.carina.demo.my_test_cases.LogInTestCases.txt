@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.solvd.carina.demo.my_test_cases.LogInTestCases
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 417.273 s - in com.solvd.carina.demo.my_test_cases.LogInTestCases

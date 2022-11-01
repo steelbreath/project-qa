@@ -1,0 +1,32 @@
+[2022-11-01 07:49:49] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:4444/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.browserName=chrome
+================================================
+
+[2022-11-01 07:49:49] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 07:49:51] [1] [INFO] Reflections took 1490 ms to scan 11 urls, producing 2605 keys and 12725 values 
+[2022-11-01 07:49:51] [1] [INFO] Use thread-count='5' from suite file.
+[2022-11-01 07:49:51] [1] [INFO] Set data-provider-thread-count=1
+[2022-11-01 07:49:51] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-11-01 08:04:33] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-11-01 08:04:33] [1] [INFO] RESULT #1: TEST [LogIn - testNegativeLogIn [L01]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/05e4c516-a6c3-4d38-952a-8f8e817bb58b/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/05e4c516-a6c3-4d38-952a-8f8e817bb58b/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #2: TEST [LogIn - testLogInWindow] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/b561198f-2cb9-42dc-b9b9-9e33d6117fee/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/b561198f-2cb9-42dc-b9b9-9e33d6117fee/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #3: TEST [LogIn - testNegativeLogIn [L02]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/c98fada4-e26b-4174-9592-7946a6e98d5a/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/c98fada4-e26b-4174-9592-7946a6e98d5a/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #4: TEST [LogIn - testNegativeLogIn [L03]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/4972a481-fa50-46cf-9105-e5d89f3e06b5/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/4972a481-fa50-46cf-9105-e5d89f3e06b5/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #5: TEST [LogIn - testNegativeLogIn [L04]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/baa37dd7-e66f-4608-aec1-c5d82bb443dd/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/baa37dd7-e66f-4608-aec1-c5d82bb443dd/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #6: TEST [LogIn - testNegativeLogIn [L05]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/d0228a82-7e46-490b-b04d-a27dc893a1e8/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/d0228a82-7e46-490b-b04d-a27dc893a1e8/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #7: TEST [LogIn - testNegativeLogIn [L06]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/9b8b54fd-41df-443d-bbc5-77ff2c9f862e/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/9b8b54fd-41df-443d-bbc5-77ff2c9f862e/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #8: TEST [LogIn - testNegativeLogIn [L07]] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/774df434-d2f4-4b11-a42c-67b4845314f7/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/774df434-d2f4-4b11-a42c-67b4845314f7/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #9: TEST [Footer - testFooterMenu] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/9e49bb4e-59cb-4587-835b-ed4d373f69b6/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/9e49bb4e-59cb-4587-835b-ed4d373f69b6/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #10: TEST [Header - testHeaderMenu] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/f0c90c09-bb87-46ec-b1fa-ddb954c9197f/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/f0c90c09-bb87-46ec-b1fa-ddb954c9197f/test.log]
+[2022-11-01 08:04:33] [1] [INFO] RESULT #11: TEST [SignUp - testSignUp] PASS [screenshots=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/aa288963-73e9-44b5-9e34-c80b0b6f2778/report.html | log=file://C:\Users\User\Documents\GitHub\project-qa\.\reports\1667332189530/aa288963-73e9-44b5-9e34-c80b0b6f2778/test.log]

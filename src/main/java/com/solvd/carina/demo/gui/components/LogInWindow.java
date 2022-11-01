@@ -2,6 +2,7 @@ package com.solvd.carina.demo.gui.components;
 
 import com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement;
 import com.qaprosoft.carina.core.gui.AbstractUIObject;
+import com.solvd.carina.demo.gui.pages.LoginPage;
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.Color;
@@ -42,8 +43,9 @@ public class LogInWindow extends AbstractUIObject {
         passwordField.type(password);
     }
 
-    public void clickLogInButton(){
+    public LoginPage clickLogInButton(){
         logInButton.click();
+        return new LoginPage(driver);
     }
 
     public boolean isTitleLoginPresent(){
@@ -72,6 +74,14 @@ public class LogInWindow extends AbstractUIObject {
     }
     public Color getLogInButtonColor(){
         return Color.fromString(logInButton.getElement().getCssValue("background-color"));
+    }
+
+    public String getEmailFieldInfoMessage(){
+        return emailField.getAttribute("validationMessage");
+    }
+
+    public String getPasswordFieldInfoMessage(){
+        return passwordField.getAttribute("validationMessage");
     }
 }
 

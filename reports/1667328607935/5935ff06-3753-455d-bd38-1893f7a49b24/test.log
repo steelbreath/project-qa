@@ -1,0 +1,15 @@
+[2022-11-01 06:50:10] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-01 06:50:10] [1] [INFO] TEST [Surefire test - testNegativeLogIn [L01]] STARTED at [20:50:10 2022-11-01]
+[2022-11-01 06:50:10] [1] [INFO] Starting driver session...
+[2022-11-01 06:50:29] [1] [INFO] Driver session started.
+[2022-11-01 06:50:30] [1] [INFO] INFO: opening url 'https://www.gsmarena.com'
+[2022-11-01 06:50:32] [1] [INFO] INFO: url 'https://www.gsmarena.com' is opened.
+[2022-11-01 06:50:56] [1] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 06:50:59] [1] [INFO] PASS: keys cleared in element 'emailField'.
+[2022-11-01 06:51:01] [1] [INFO] PASS: keys '' are sent to element 'emailField'.
+[2022-11-01 06:51:03] [1] [INFO] PASS: keys cleared in element 'passwordField'.
+[2022-11-01 06:51:05] [1] [INFO] PASS: keys '' are sent to element 'passwordField'.
+[2022-11-01 06:51:09] [1] [INFO] PASS: element 'logInButton' is clicked.
+[2022-11-01 06:51:11] [1] [INFO] Заповніть це поле.
+[2022-11-01 06:51:11] [1] [INFO] Заповніть це поле.
+[2022-11-01 06:51:32] [1] [INFO] TEST [Surefire test - testNegativeLogIn [L01]] PASSED at [20:51:32 2022-11-01]
